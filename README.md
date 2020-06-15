@@ -13,8 +13,8 @@ ____
 
 1. HxH
 2. Cowboy Bebop
-..* See you
-..* Space cowboy
+  * _See you_
+  * _Space cowboy_
 3. Samurai Champloo
 
 _____
